@@ -19,7 +19,23 @@ CREATE TABLE IF NOT EXISTS pets (
 
 ````
 
+
+
 <img width="1283" height="700" alt="image" src="https://github.com/user-attachments/assets/fbb6594e-b20f-4368-8afc-d0c3474d1803" />
+
+
+---
+
+## No projeto
+
+```bash
+
+
+npm i express mysql2 dotenv
+npm i -D typescript ts-node-dev @types/express @types/node
+npx tsc --init
+
+````
 
 
 ---
